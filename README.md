@@ -1,4 +1,4 @@
-# Kursad Karslioglu
+# About
 _Electronic Technician/Embedded System Designer_ <br>
 
 [Email](mailto:kursadkarslioglu@gmail.com)
