@@ -1,2 +1,4 @@
-# karslioglu.github.io
-Personal Web Site
+# Kursad Karslioglu
+_Electronic Technician/Embedded System Designer_ <br>
+
+
